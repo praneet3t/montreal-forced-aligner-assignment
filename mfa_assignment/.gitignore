@@ -1,0 +1,11 @@
+data/
+*.pyc
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
+
+# Local dictionaries and logs
+
+*.log
+

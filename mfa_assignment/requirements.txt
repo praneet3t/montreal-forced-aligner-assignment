@@ -1,0 +1,7 @@
+textgrid
+praat-parselmouth
+matplotlib
+seaborn
+numpy
+librosa
+openai-whisper
